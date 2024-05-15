@@ -2,3 +2,7 @@
 ![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/7e30e23d-bd82-486d-be9d-04bfd6be545e)
 ![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/6bd8d979-349b-4f7a-b246-1ba37b3b2443)
 ![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/1c21df5c-99a3-439a-88da-b3cfd1e789a7)
+![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/5e7a730a-3f24-434c-8b64-dee6ee4bdf63)
+![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/0fecb6a1-3268-4633-917b-0f5a62cbf956)
+![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/48d68bef-404c-4864-9704-16b1d6ac715f)
+![image](https://github.com/rohith200/Prometheus-Grafana/assets/42884535/b300aea6-9a15-4786-bb21-edba65993bbe)
